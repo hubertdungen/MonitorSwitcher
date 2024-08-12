@@ -1,6 +1,6 @@
-# Monitor Swapper
+# Monitor Switcher
 
-Monitor Swapper is a simple, lightweight PowerShell script designed to switch your primary display between multiple monitors on a Windows-based system. The script keeps a log to remember which monitor was last set as the primary one and alternates sequentially through all available monitors.
+Monitor Switcher is a simple, lightweight PowerShell script designed to switch your primary display between multiple monitors on a Windows-based system. The script keeps a log to remember which monitor was last set as the primary one and alternates sequentially through all available monitors.
 
 ## Getting Started
 
