@@ -1,5 +1,5 @@
 ﻿# Initialize log file path
-$logFilePath = "C:\Users\huber\OneDrive\Documents\SwapMonitorsLog.txt"
+$logFilePath = "C:\Users\huber\Documents\Development\MonitorSwitcher\SwapMonitorsLog.txt"
 
 # Check if log file exists
 if(!(Test-Path -Path $logFilePath)) {
